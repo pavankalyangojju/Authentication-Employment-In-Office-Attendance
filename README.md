@@ -1,7 +1,7 @@
 # Authentication-Employment-In-Office-Attendance
 
 ## Overview
-      The attendance of the employee will be taken by RFID tags and will automatically get stored data. According to number of working days attended by the employee salary will be generated. Provision has also been made to alert beep Sound etc. regarding their attendance & salary.
+The attendance of the employee will be taken by RFID tags and will automatically get stored data. According to number of working days attended by the employee salary will be generated. Provision has also been made to alert beep Sound etc. regarding their attendance & salary.
 
 ## Problem Statement
 
